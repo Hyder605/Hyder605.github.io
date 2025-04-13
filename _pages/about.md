@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Haider Ali
 
 **Master’s Student in Artificial Intelligence in Healthcare, Inje University**
 
