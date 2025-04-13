@@ -16,6 +16,22 @@ $(document).ready(function () {
   }
   setTheme();
 
+  function toggleSection(header) {
+    const content = header.nextElementSibling;
+    const isActive = content.classList.contains('active');
+  
+    // Close all sections
+    document.querySelectorAll('.accordion-content').forEach((section) => {
+      section.classList.remove('active');
+    });
+  
+    // Open clicked section if it wasn't already active
+    if (!isActive) {
+      content.classList.add('active');
+    }
+  }
+
+
   // Toggle the theme
   var toggleTheme = function () {
     const current_theme = $("html").attr("data-theme");
