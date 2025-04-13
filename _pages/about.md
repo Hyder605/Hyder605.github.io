@@ -7,17 +7,13 @@ redirect_from:
   - /about.html
 ---
 
----
-layout: default
----
-
 # Haider Ali
 
 **Master’s Student in Artificial Intelligence in Healthcare, Inje University**
 
 Highly energetic and motivated to pursue my Ph.D. in Artificial Intelligence in Healthcare, focusing on Deep Learning, NLP, LLMs, and Generative AI to address global healthcare challenges.
 
-[Email](mailto:Haiderali605@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/haider-alio05) | [GitHub](https://github.com/Hyder605) | [Google Scholar](#) | [Download CV](/files/Haider_Ali_CV.pdf)
+[Email](mailto:Haiderali605@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/haider-ali605) | [GitHub](https://github.com/Hyder605) | [Google Scholar](#) | [Download CV](/files/Haider_Ali_CV.pdf)
 
 ---
 
