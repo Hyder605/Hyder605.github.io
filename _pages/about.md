@@ -1,3 +1,13 @@
+---
+permalink: /
+# title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 **Master’s Student in Artificial Intelligence in Healthcare, Inje University**
 
 Highly energetic and motivated to pursue my Ph.D. in Artificial Intelligence in Healthcare, focusing on Deep Learning, NLP, LLMs, and Generative AI to address global healthcare challenges.
