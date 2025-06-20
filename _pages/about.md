@@ -63,61 +63,61 @@ Highly energetic and motivated to pursue my Ph.D. in Artificial Intelligence in 
 ## Other Projects
 
 - **Finetuning Vision Language Models: (01/2025 -- 02/2025)**
-Fine-tuned three different VLMS (Qwen2-7B, Pixtral-12B, LlamaVision-11B) on the image and caption pair dataset to generate captions for medical images by leveraging 4-bit quantization and LoRA technique.
+Fine-tuned three different VLMS (Qwen2-7B, Pixtral-12B, LlamaVision-11B) on the image and caption pair dataset to generate captions for medical images by leveraging 4-bit quantization and LoRA technique.<br>
 *Tool Used*: Python, PyTorch, HuggingFace, Unsloth library
 
 - **Medical Modality Classification in Radiology: (08/2024 – 12/2024)**
-Developed a model for classifying radiology modalities into 7 distinct classes using the ROCO dataset. Leveraged Llama 3.2 for feature extraction from medical reports and implemented a custom convolutional neural network (CNN) for effective modality classification.
-*GitHub*: [https://github.com/Hyder605/Modality-Classification](https://github.com/Hyder605/Modality-Classification)
+Developed a model for classifying radiology modalities into 7 distinct classes using the ROCO dataset. Leveraged Llama 3.2 for feature extraction from medical reports and implemented a custom convolutional neural network (CNN) for effective modality classification.<br>
+*GitHub*: [https://github.com/Hyder605/Modality-Classification](https://github.com/Hyder605/Modality-Classification)<br>
 *Tools Used*: Python, PyTorch, Vocode
 
 - **AI Content Detection: (08/2024 -- 10/2024)**
-Fine-tune a Bert model to detect AI content on a private dataset.
-*GitHub*: [https://github.com/Hyder605/AI-Content-Detection](https://github.com/Hyder605/AI-Content-Detection)
+Fine-tune a Bert model to detect AI content on a private dataset.<br>
+*GitHub*: [https://github.com/Hyder605/AI-Content-Detection](https://github.com/Hyder605/AI-Content-Detection)<br>
 *Tool used*: Python, VS Code, PyTorch 
 
 - **Car Parking Optimization System: (04/2024 -- 06/2024)**
-Developed an algorithm to identify available parking slots and automatically reposition vehicles for optimal parking, ensuring new cars are parked in the nearest available spot.
-*GitHub*: [https://github.com/Hyder605/CarParking_final](https://github.com/Hyder605/CarParking_final)
+Developed an algorithm to identify available parking slots and automatically reposition vehicles for optimal parking, ensuring new cars are parked in the nearest available spot.<br>
+*GitHub*: [https://github.com/Hyder605/CarParking_final](https://github.com/Hyder605/CarParking_final)<br>
 *Tool Used*: Python, VS Code
 
 - **Classification of Rice Leaf Diseases: (11/2023 -- 02/2024)**
-Developed a model using CNN to classify the diseases in Rice leaves.
+Developed a model using CNN to classify the diseases in Rice leaves.<br>
 *Tool Used*: Python, PyTorch, VS Code
 
 - **Image Descriptor using Transformer Networks:(04/2023 -- 06/2023)**
-Trained a custom Transformer-based model on the Flickr 8k dataset for automatic image description and integrated it with the Gemini model to generate a story based on the generated description.
-*GitHub*: [https://github.com/Hyder605/Image-Descriptor-and-Story-Teller](https://github.com/Hyder605/Image-Descriptor-and-Story-Teller)
+Trained a custom Transformer-based model on the Flickr 8k dataset for automatic image description and integrated it with the Gemini model to generate a story based on the generated description.<br>
+*GitHub*: [https://github.com/Hyder605/Image-Descriptor-and-Story-Teller](https://github.com/Hyder605/Image-Descriptor-and-Story-Teller)<br>
 *Tools Used*: Python, PyTorch, Vocode, Flask, HTML, CSS
 
 
 - **Shoe E-commerce Website: (05/2023-- 07/2023)**
-Designed and developed a responsive e-commerce shoe store, where items were added and removed, and Stripe was integrated for payment.
-*GitHub*: [https://github.com/Hyder605/Ecommerce](https://github.com/Hyder605/Ecommerce)
+Designed and developed a responsive e-commerce shoe store, where items were added and removed, and Stripe was integrated for payment.<br>
+*GitHub*: [https://github.com/Hyder605/Ecommerce](https://github.com/Hyder605/Ecommerce)<br>
 *Tool used*: VS Code, Next.js, JavaScript, Sanity, Tailwind CSS, Stripe 
 
 
 - **Educational Course Information Website: (02/2023 -- 04/2023)**
-Designed and developed a user-friendly responsive UI website that provides detailed information about the academic courses an Institute on Web technology offers.
-*GitHub*: [https://github.com/Hyder605/NextJs-Projects_prac/tree/master/PanaverseSite](https://github.com/Hyder605/NextJs-Projects_prac/tree/master/PanaverseSite)
+Designed and developed a user-friendly responsive UI website that provides detailed information about the academic courses an Institute on Web technology offers.<br>
+*GitHub*: [https://github.com/Hyder605/NextJs-Projects_prac/tree/master/PanaverseSite](https://github.com/Hyder605/NextJs-Projects_prac/tree/master/PanaverseSite)<br>
 *Tool used*:  VS Code, Next.js, JavaScript, Tailwind CSS
 
 
 - **Some other Practice Project:**
-•	Fine-tuned Resnet and Densnet to classify Skin cancer (08/2024 -- 09/2024)
-*GitHub*: [https://github.com/Hyder605/Skin-Cancer-Classification](https://github.com/Hyder605/Skin-Cancer-Classification)
+•	Fine-tuned Resnet and Densnet to classify Skin cancer (08/2024 -- 09/2024)<br>
+*GitHub*: [https://github.com/Hyder605/Skin-Cancer-Classification](https://github.com/Hyder605/Skin-Cancer-Classification)<br>
 
-•	Fine-Tuned EfficientNetV2M to classify the Emotions of people: (11/2023 -- 12/2023)
-*GitHub*: [https://github.com/Hyder605/Emotion-Recognition](https://github.com/Hyder605/Emotion-Recognition)
+•	Fine-Tuned EfficientNetV2M to classify the Emotions of people: (11/2023 -- 12/2023)<br>
+*GitHub*: [https://github.com/Hyder605/Emotion-Recognition](https://github.com/Hyder605/Emotion-Recognition)<br>
 
-•	Object Detection project using YOLO8 to detect the vehicles on the road (01/2024 -- 02/2024)
-*GitHub*: [https://github.com/Hyder605/car_counter_Yolo](https://github.com/Hyder605/car_counter_Yolo)
+•	Object Detection project using YOLO8 to detect the vehicles on the road (01/2024 -- 02/2024)<br>
+*GitHub*: [https://github.com/Hyder605/car_counter_Yolo](https://github.com/Hyder605/car_counter_Yolo)<br>
 
-•	Designed and developed a dummy Portfolio website as a practice project (02/2023 -- 03/2023)
-*GitHub*: [https://github.com/Hyder605/NextJs-Projects_prac/tree/master/Portfolio](https://github.com/Hyder605/NextJs-Projects_prac/tree/master/Portfolio)
+•	Designed and developed a dummy Portfolio website as a practice project (02/2023 -- 03/2023)<br>
+*GitHub*: [https://github.com/Hyder605/NextJs-Projects_prac/tree/master/Portfolio](https://github.com/Hyder605/NextJs-Projects_prac/tree/master/Portfolio)<br>
 
-•	Todo APP (03/2023 -- 04/2023)
-*GitHub*: [https://github.com/Hyder605/NextJs-Projects_prac/tree/master/todo-app](https://github.com/Hyder605/NextJs-Projects_prac/tree/master/todo-app)
+•	Todo APP (03/2023 -- 04/2023)<br>
+*GitHub*: [https://github.com/Hyder605/NextJs-Projects_prac/tree/master/todo-app](https://github.com/Hyder605/NextJs-Projects_prac/tree/master/todo-app)<br>
 
 ---
 
