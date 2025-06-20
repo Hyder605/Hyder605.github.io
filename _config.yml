@@ -22,7 +22,7 @@ repository               : "Hyder605/Hyder605.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/files/passport_pic.jpg
+  avatar           : "Hyder605.github.io/files/passport_pic.jpg
   name             : "Haider Ali" # Your name, e.g. "John Doe"
   pronouns         : # example: "she/her"  
   bio              : "Passionate about advancing AI, I specialize in deep learning, large language models (LLMs), and generative AI. My current research focuses on medical report generation and image captioning using multimodal techniques. I'm actively seeking a Ph.D. position to explore explainable and impactful AI solutions"
