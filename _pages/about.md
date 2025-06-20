@@ -68,17 +68,17 @@ Fine-tuned three different VLMS (Qwen2-7B, Pixtral-12B, LlamaVision-11B) on the 
 
 - **Medical Modality Classification in Radiology: (08/2024 – 12/2024)**
 Developed a model for classifying radiology modalities into 7 distinct classes using the ROCO dataset. Leveraged Llama 3.2 for feature extraction from medical reports and implemented a custom convolutional neural network (CNN) for effective modality classification.
-*GitHub*: https://github.com/Hyder605/Modality-Classification
+*GitHub*: [https://github.com/Hyder605/Modality-Classification](https://github.com/Hyder605/Modality-Classification)
 *Tools Used*: Python, PyTorch, Vocode
 
 - **AI Content Detection: (08/2024 -- 10/2024)**
 Fine-tune a Bert model to detect AI content on a private dataset.
-*GitHub*: https://github.com/Hyder605/AI-Content-Detection
+*GitHub*: [https://github.com/Hyder605/AI-Content-Detection](https://github.com/Hyder605/AI-Content-Detection)
 *Tool used*: Python, VS Code, PyTorch 
 
 - **Car Parking Optimization System: (04/2024 -- 06/2024)**
 Developed an algorithm to identify available parking slots and automatically reposition vehicles for optimal parking, ensuring new cars are parked in the nearest available spot.
-*GitHub*: https://github.com/Hyder605/CarParking_final
+*GitHub*: [https://github.com/Hyder605/CarParking_final](https://github.com/Hyder605/CarParking_final)
 *Tool Used*: Python, VS Code
 
 - **Classification of Rice Leaf Diseases: (11/2023 -- 02/2024)**
@@ -87,37 +87,37 @@ Developed a model using CNN to classify the diseases in Rice leaves.
 
 - **Image Descriptor using Transformer Networks:(04/2023 -- 06/2023)**
 Trained a custom Transformer-based model on the Flickr 8k dataset for automatic image description and integrated it with the Gemini model to generate a story based on the generated description.
-*GitHub*: https://github.com/Hyder605/Image-Descriptor-and-Story-Teller
+*GitHub*: [https://github.com/Hyder605/Image-Descriptor-and-Story-Teller](https://github.com/Hyder605/Image-Descriptor-and-Story-Teller)
 *Tools Used*: Python, PyTorch, Vocode, Flask, HTML, CSS
 
 
 - **Shoe E-commerce Website: (05/2023-- 07/2023)**
 Designed and developed a responsive e-commerce shoe store, where items were added and removed, and Stripe was integrated for payment.
-*GitHub*: https://github.com/Hyder605/Ecommerce
+*GitHub*: [https://github.com/Hyder605/Ecommerce](https://github.com/Hyder605/Ecommerce)
 *Tool used*: VS Code, Next.js, JavaScript, Sanity, Tailwind CSS, Stripe 
 
 
 - **Educational Course Information Website: (02/2023 -- 04/2023)**
 Designed and developed a user-friendly responsive UI website that provides detailed information about the academic courses an Institute on Web technology offers.
-*GitHub*: https://github.com/Hyder605/NextJs-Projects_prac/tree/master/PanaverseSite
+*GitHub*: [https://github.com/Hyder605/NextJs-Projects_prac/tree/master/PanaverseSite](https://github.com/Hyder605/NextJs-Projects_prac/tree/master/PanaverseSite)
 *Tool used*:  VS Code, Next.js, JavaScript, Tailwind CSS
 
 
 - **Some other Practice Project:**
 •	Fine-tuned Resnet and Densnet to classify Skin cancer (08/2024 -- 09/2024)
-*GitHub*: https://github.com/Hyder605/Skin-Cancer-Classification
+*GitHub*: [https://github.com/Hyder605/Skin-Cancer-Classification](https://github.com/Hyder605/Skin-Cancer-Classification)
 
 •	Fine-Tuned EfficientNetV2M to classify the Emotions of people: (11/2023 -- 12/2023)
-*GitHub*: https://github.com/Hyder605/Emotion-Recognition
+*GitHub*: [https://github.com/Hyder605/Emotion-Recognition](https://github.com/Hyder605/Emotion-Recognition)
 
 •	Object Detection project using YOLO8 to detect the vehicles on the road (01/2024 -- 02/2024)
-*GitHub*: https://github.com/Hyder605/car_counter_Yolo
+*GitHub*: [https://github.com/Hyder605/car_counter_Yolo](https://github.com/Hyder605/car_counter_Yolo)
 
 •	Designed and developed a dummy Portfolio website as a practice project (02/2023 -- 03/2023)
-*GitHub*: https://github.com/Hyder605/NextJs-Projects_prac/tree/master/Portfolio
+*GitHub*: [https://github.com/Hyder605/NextJs-Projects_prac/tree/master/Portfolio](https://github.com/Hyder605/NextJs-Projects_prac/tree/master/Portfolio)
 
 •	Todo APP (03/2023 -- 04/2023)
-*GitHub*: https://github.com/Hyder605/NextJs-Projects_prac/tree/master/todo-app
+*GitHub*: [https://github.com/Hyder605/NextJs-Projects_prac/tree/master/todo-app](https://github.com/Hyder605/NextJs-Projects_prac/tree/master/todo-app)
 
 ---
 
