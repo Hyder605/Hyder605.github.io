@@ -10,7 +10,7 @@ redirect_from:
 
 **Master’s Student in Artificial Intelligence in Healthcare, Inje University**
 
-Highly energetic and motivated to pursue my Ph.D. in Artificial Intelligence in Healthcare, focusing on Deep Learning, NLP, LLMs, and Generative AI to address global healthcare challenges.
+Highly energetic and motivated to pursue my Ph.D. in Artificial Intelligence, focusing on Deep Learning, NLP, LLMs, and Generative AI to address global challenges in different domains.
 
 [Email](mailto:Haiderali605@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/haider-ali605) | [GitHub](https://github.com/Hyder605) | [Google Scholar](https://scholar.google.com/citations?user=BUQ9ChkAAAAJ&hl=en&authuser=1) | [Download CV](/files/Haider_Ali_CV.pdf)
 

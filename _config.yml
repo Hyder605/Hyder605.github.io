@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Haider Ali" # Your name, e.g. "John Doe"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Passionate about advancing AI, I specialize in deep learning, large language models (LLMs), and generative AI. My current research focuses on medical report generation and image captioning using multimodal techniques. I'm actively seeking a Ph.D. position to explore explainable and impactful AI solutions"
   location         : "Busan, South Korea" # e.g. "New York, NY"
   employer         : "Inje University" # e.g. "Inje University"
   position         : "Master Student" # e.g. "Assistant Professor"
